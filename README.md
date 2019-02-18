@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-This bot requires Python and [Flask](http://flask.pocoo.org/docs/1.0/installation/#install-flask) && [Praw](https://praw.readthedocs.io/en/latest/index.html).
+This bot requires Python and [Flask](http://flask.pocoo.org/docs/1.0/installation/#install-flask) & [Praw](https://praw.readthedocs.io/en/latest/index.html).
 
 ```
 pip install Flask
