@@ -1,4 +1,4 @@
-# Project Title
+# AutoReplyBot
 
 This is a simple Python bot for automatically replying to specific people on Reddit. Ever had a person repeatedly send you messages? Wouldn't you rather waste their time instead of just blocking them?
 
